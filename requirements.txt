@@ -1,0 +1,8 @@
+numpy
+pandas
+xlrd
+pulp
+ipywidgets
+matplotlib
+mpld3
+openpyxl
